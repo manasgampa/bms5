@@ -6,7 +6,7 @@ public class InstanceControleFlow {
 	String name;
 	
 	static{
-		//System.out.println("in static block");
+		System.out.println("in static block");
 	}
 	
 	{
