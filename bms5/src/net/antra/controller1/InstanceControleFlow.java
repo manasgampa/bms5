@@ -6,6 +6,7 @@ public class InstanceControleFlow {
 	String name;
 	
 	static{
+		//new code to be commited
 		System.out.println("in static block");
 	}
 	
